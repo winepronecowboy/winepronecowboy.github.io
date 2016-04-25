@@ -1,2 +1,3 @@
 name: Vicente C. Salazar, Esq.
 markdown: kramdown
+permalink: /blog/:year/:month/:day/:title
