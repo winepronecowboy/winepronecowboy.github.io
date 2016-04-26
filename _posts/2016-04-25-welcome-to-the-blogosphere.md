@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "I am now part of the blogosphere"
+title: "Welcome to the blogosphere"
 date: 2016-04-25
 ---
 
