@@ -2,7 +2,7 @@
 layout: post
 title: "Crowdsourced psychoanalysis"
 date: 2016-05-02
-
+---
 
 I am struggling to decide on where I should focus this blog and, well, this site in general. Blogging is perhaps the most inherently navel-gazing writing medium ever conceived. And I have read plenty of first-time screenwriters' work.
 
