@@ -1,4 +1,4 @@
 name: A modern Western tale
 markdown: kramdown
-permalink: %2Fblog%2F: title
+permalink: /blog/:title
 paginate: 5
