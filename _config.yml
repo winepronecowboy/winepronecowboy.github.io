@@ -1,4 +1,4 @@
-name: Vicente C. Salazar, Esq.
+name: A modern Western tale
 markdown: kramdown
-permalink: /blog/:year/:month/:day/:title
+permalink: /blog/:title
 paginate: 5
